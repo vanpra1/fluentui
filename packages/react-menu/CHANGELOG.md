@@ -1,8 +1,17 @@
 # Change Log - @fluentui/react-menu
 
-This log was last generated on Fri, 17 Sep 2021 08:27:07 GMT and should not be manually modified.
+This log was last generated on Fri, 17 Sep 2021 08:49:28 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0-beta.1
+
+Fri, 17 Sep 2021 08:49:28 GMT
+
+### Changes
+
+- Bump all packages to v9 (lingfangao@hotmail.com)
+- Bump @fluentui/react-menu to v9.0.0-beta.1 (lingfangao@hotmail.com)
 
 ## 9.0.0-alpha.79
 

@@ -2,6 +2,21 @@
   "name": "@fluentui/make-styles",
   "entries": [
     {
+      "date": "Fri, 17 Sep 2021 08:49:28 GMT",
+      "tag": "@fluentui/make-styles_v9.0.0-beta.1",
+      "version": "9.0.0-beta.1",
+      "comments": {
+        "prerelease": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/make-styles",
+            "comment": "Bump all packages to v9",
+            "commit": "b18f17d7faad7d5621d8aa4eb3f3fc6c8fabe82d"
+          }
+        ]
+      }
+    },
+    {
       "date": "Fri, 17 Sep 2021 08:27:07 GMT",
       "tag": "@fluentui/make-styles_v9.0.0-alpha.31",
       "version": "9.0.0-alpha.31",

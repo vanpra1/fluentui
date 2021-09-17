@@ -2,6 +2,21 @@
   "name": "perf-test",
   "entries": [
     {
+      "date": "Fri, 17 Sep 2021 08:49:28 GMT",
+      "tag": "perf-test_v1.0.0",
+      "version": "1.0.0",
+      "comments": {
+        "patch": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "perf-test",
+            "commit": "b18f17d7faad7d5621d8aa4eb3f3fc6c8fabe82d",
+            "comment": "Bump perf-test to v1.0.0"
+          }
+        ]
+      }
+    },
+    {
       "date": "Fri, 17 Sep 2021 08:27:07 GMT",
       "tag": "perf-test_v1.0.0",
       "version": "1.0.0",

@@ -2,6 +2,27 @@
   "name": "@fluentui/react-avatar",
   "entries": [
     {
+      "date": "Fri, 17 Sep 2021 08:49:28 GMT",
+      "tag": "@fluentui/react-avatar_v9.0.0-beta.1",
+      "version": "9.0.0-beta.1",
+      "comments": {
+        "prerelease": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-avatar",
+            "comment": "Bump all packages to v9",
+            "commit": "b18f17d7faad7d5621d8aa4eb3f3fc6c8fabe82d"
+          },
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-avatar",
+            "commit": "b18f17d7faad7d5621d8aa4eb3f3fc6c8fabe82d",
+            "comment": "Bump @fluentui/react-avatar to v9.0.0-beta.1"
+          }
+        ]
+      }
+    },
+    {
       "date": "Fri, 17 Sep 2021 08:27:07 GMT",
       "tag": "@fluentui/react-avatar_v9.0.0-alpha.82",
       "version": "9.0.0-alpha.82",

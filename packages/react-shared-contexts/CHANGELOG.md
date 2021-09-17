@@ -1,8 +1,17 @@
 # Change Log - @fluentui/react-shared-contexts
 
-This log was last generated on Fri, 10 Sep 2021 16:31:53 GMT and should not be manually modified.
+This log was last generated on Fri, 17 Sep 2021 08:49:28 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0-beta.1
+
+Fri, 17 Sep 2021 08:49:28 GMT
+
+### Changes
+
+- Bump all packages to v9 (lingfangao@hotmail.com)
+- Bump @fluentui/react-shared-contexts to v9.0.0-beta.1 (lingfangao@hotmail.com)
 
 ## [9.0.0-alpha.24](https://github.com/microsoft/fluentui/tree/@fluentui/react-shared-contexts_v9.0.0-alpha.24)
 

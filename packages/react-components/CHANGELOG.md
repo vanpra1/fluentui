@@ -1,8 +1,122 @@
 # Change Log - @fluentui/react-components
 
-This log was last generated on Fri, 17 Sep 2021 08:27:07 GMT and should not be manually modified.
+This log was last generated on Fri, 17 Sep 2021 08:49:28 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0-beta.1
+
+Fri, 17 Sep 2021 08:49:28 GMT
+
+### Patches
+
+- `vr-tests`
+  - Bump vr-tests to v1.0.0 (lingfangao@hotmail.com)
+- `perf-test`
+  - Bump perf-test to v1.0.0 (lingfangao@hotmail.com)
+
+### Changes
+
+- `@fluentui/babel-make-styles`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/babel-make-styles to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/jest-serializer-make-styles`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/jest-serializer-make-styles to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/keyboard-keys`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+- `@fluentui/make-styles`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+- `@fluentui/make-styles-webpack-loader`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/make-styles-webpack-loader to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-accordion`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-accordion to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-aria`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-aria to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-avatar`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-avatar to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-badge`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-badge to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-button`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-button to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-card`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-card to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-checkbox`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-checkbox to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-components`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-components to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-conformance-make-styles`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-conformance-make-styles to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-context-selector`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-context-selector to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-divider`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-divider to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-image`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-image to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-label`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-label to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-link`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-link to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-make-styles`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-make-styles to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-menu`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-menu to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-popover`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-popover to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-portal`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-portal to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-positioning`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-positioning to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-provider`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-provider to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-shared-contexts`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-shared-contexts to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-slider`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-slider to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-switch`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-switch to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-tabster`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-tabster to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-text`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-text to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-theme`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+- `@fluentui/react-tooltip`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-tooltip to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-utilities`
+  - Bump all packages to v9 (lingfangao@hotmail.com)
+  - Bump @fluentui/react-utilities to v9.0.0-beta.1 (lingfangao@hotmail.com)
+- `@fluentui/react-storybook`
+  - Bump @fluentui/react-storybook to v9.0.0-beta.0 (lingfangao@hotmail.com)
+- `@fluentui/react-input`
+  - Bump @fluentui/react-input to v9.0.0-beta.0 (lingfangao@hotmail.com)
 
 ## 9.0.0-alpha.110
 
