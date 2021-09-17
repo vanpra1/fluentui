@@ -1,8 +1,16 @@
 # Change Log - @fluentui/react-tooltip
 
-This log was last generated on Fri, 17 Sep 2021 07:35:26 GMT and should not be manually modified.
+This log was last generated on Fri, 17 Sep 2021 08:27:07 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0-alpha.84
+
+Fri, 17 Sep 2021 08:27:07 GMT
+
+### Changes
+
+- Bump @fluentui/react-tooltip to v9.0.0-alpha.84 (lingfangao@hotmail.com)
 
 ## [9.0.0-alpha.83](https://github.com/microsoft/fluentui/tree/@fluentui/react-tooltip_v9.0.0-alpha.83)
 

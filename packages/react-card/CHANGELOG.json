@@ -2,6 +2,29 @@
   "name": "@fluentui/react-card",
   "entries": [
     {
+      "date": "Fri, 17 Sep 2021 08:27:07 GMT",
+      "tag": "@fluentui/react-card_v9.0.0-alpha.4",
+      "version": "9.0.0-alpha.4",
+      "comments": {
+        "none": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-card",
+            "comment": "Use star dev deps",
+            "commit": "e8181b4c36a1b8f924a8a922af86035da74b9705"
+          }
+        ],
+        "prerelease": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-card",
+            "commit": "e8181b4c36a1b8f924a8a922af86035da74b9705",
+            "comment": "Bump @fluentui/react-card to v9.0.0-alpha.4"
+          }
+        ]
+      }
+    },
+    {
       "date": "Fri, 17 Sep 2021 07:35:26 GMT",
       "tag": "@fluentui/react-card_v9.0.0-alpha.3",
       "version": "9.0.0-alpha.3",

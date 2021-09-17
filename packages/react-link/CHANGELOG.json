@@ -2,6 +2,35 @@
   "name": "@fluentui/react-link",
   "entries": [
     {
+      "date": "Fri, 17 Sep 2021 08:27:07 GMT",
+      "tag": "@fluentui/react-link_v9.0.0-alpha.83",
+      "version": "9.0.0-alpha.83",
+      "comments": {
+        "none": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-link",
+            "comment": "Use star dev deps",
+            "commit": "e8181b4c36a1b8f924a8a922af86035da74b9705"
+          }
+        ],
+        "prerelease": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-link",
+            "comment": "fix(Link): use `keyboard-keys` package",
+            "commit": "e8181b4c36a1b8f924a8a922af86035da74b9705"
+          },
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-link",
+            "commit": "e8181b4c36a1b8f924a8a922af86035da74b9705",
+            "comment": "Bump @fluentui/react-link to v9.0.0-alpha.83"
+          }
+        ]
+      }
+    },
+    {
       "date": "Fri, 17 Sep 2021 07:35:26 GMT",
       "tag": "@fluentui/react-link_v9.0.0-alpha.82",
       "version": "9.0.0-alpha.82",

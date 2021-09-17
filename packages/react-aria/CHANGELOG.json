@@ -2,6 +2,29 @@
   "name": "@fluentui/react-aria",
   "entries": [
     {
+      "date": "Fri, 17 Sep 2021 08:27:07 GMT",
+      "tag": "@fluentui/react-aria_v9.0.0-alpha.34",
+      "version": "9.0.0-alpha.34",
+      "comments": {
+        "none": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-aria",
+            "comment": "Use star dev deps",
+            "commit": "e8181b4c36a1b8f924a8a922af86035da74b9705"
+          }
+        ],
+        "prerelease": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-aria",
+            "commit": "e8181b4c36a1b8f924a8a922af86035da74b9705",
+            "comment": "Bump @fluentui/react-aria to v9.0.0-alpha.34"
+          }
+        ]
+      }
+    },
+    {
       "date": "Fri, 17 Sep 2021 07:35:26 GMT",
       "tag": "@fluentui/react-aria_v9.0.0-alpha.33",
       "version": "9.0.0-alpha.33",

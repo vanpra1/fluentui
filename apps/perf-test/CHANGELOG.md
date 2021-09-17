@@ -1,8 +1,16 @@
 # Change Log - perf-test
 
-This log was last generated on Fri, 17 Sep 2021 07:35:26 GMT and should not be manually modified.
+This log was last generated on Fri, 17 Sep 2021 08:27:07 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.0.0
+
+Fri, 17 Sep 2021 08:27:07 GMT
+
+### Patches
+
+- Bump perf-test to v1.0.0 (lingfangao@hotmail.com)
 
 ## [1.0.0](https://github.com/microsoft/fluentui/tree/perf-test_v1.0.0)
 

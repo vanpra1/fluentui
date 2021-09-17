@@ -2,6 +2,27 @@
   "name": "@fluentui/make-styles",
   "entries": [
     {
+      "date": "Fri, 17 Sep 2021 08:27:07 GMT",
+      "tag": "@fluentui/make-styles_v9.0.0-alpha.31",
+      "version": "9.0.0-alpha.31",
+      "comments": {
+        "none": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/make-styles",
+            "comment": "Use star dev deps",
+            "commit": "e8181b4c36a1b8f924a8a922af86035da74b9705"
+          },
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/make-styles",
+            "comment": "chore(make-styles): Remove unnecessary dev dependency",
+            "commit": "e8181b4c36a1b8f924a8a922af86035da74b9705"
+          }
+        ]
+      }
+    },
+    {
       "date": "Tue, 24 Aug 2021 07:34:48 GMT",
       "tag": "@fluentui/make-styles_v9.0.0-alpha.31",
       "version": "9.0.0-alpha.31",

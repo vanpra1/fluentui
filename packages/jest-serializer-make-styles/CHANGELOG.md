@@ -1,8 +1,16 @@
 # Change Log - @fluentui/jest-serializer-make-styles
 
-This log was last generated on Fri, 17 Sep 2021 07:35:26 GMT and should not be manually modified.
+This log was last generated on Fri, 17 Sep 2021 08:27:07 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0-alpha.43
+
+Fri, 17 Sep 2021 08:27:07 GMT
+
+### Changes
+
+- Bump @fluentui/jest-serializer-make-styles to v9.0.0-alpha.43 (lingfangao@hotmail.com)
 
 ## [9.0.0-alpha.42](https://github.com/microsoft/fluentui/tree/@fluentui/jest-serializer-make-styles_v9.0.0-alpha.42)
 

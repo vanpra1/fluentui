@@ -2,6 +2,29 @@
   "name": "@fluentui/react-tabster",
   "entries": [
     {
+      "date": "Fri, 17 Sep 2021 08:27:07 GMT",
+      "tag": "@fluentui/react-tabster_v9.0.0-alpha.62",
+      "version": "9.0.0-alpha.62",
+      "comments": {
+        "none": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-tabster",
+            "comment": "Use star dev deps",
+            "commit": "e8181b4c36a1b8f924a8a922af86035da74b9705"
+          }
+        ],
+        "prerelease": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-tabster",
+            "commit": "e8181b4c36a1b8f924a8a922af86035da74b9705",
+            "comment": "Bump @fluentui/react-tabster to v9.0.0-alpha.62"
+          }
+        ]
+      }
+    },
+    {
       "date": "Fri, 17 Sep 2021 07:35:26 GMT",
       "tag": "@fluentui/react-tabster_v9.0.0-alpha.61",
       "version": "9.0.0-alpha.61",

@@ -2,6 +2,29 @@
   "name": "@fluentui/react-make-styles",
   "entries": [
     {
+      "date": "Fri, 17 Sep 2021 08:27:07 GMT",
+      "tag": "@fluentui/react-make-styles_v9.0.0-alpha.68",
+      "version": "9.0.0-alpha.68",
+      "comments": {
+        "none": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-make-styles",
+            "comment": "Use star dev deps",
+            "commit": "e8181b4c36a1b8f924a8a922af86035da74b9705"
+          }
+        ],
+        "prerelease": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-make-styles",
+            "commit": "e8181b4c36a1b8f924a8a922af86035da74b9705",
+            "comment": "Bump @fluentui/react-make-styles to v9.0.0-alpha.68"
+          }
+        ]
+      }
+    },
+    {
       "date": "Fri, 17 Sep 2021 07:35:26 GMT",
       "tag": "@fluentui/react-make-styles_v9.0.0-alpha.67",
       "version": "9.0.0-alpha.67",

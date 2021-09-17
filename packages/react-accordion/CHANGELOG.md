@@ -1,8 +1,16 @@
 # Change Log - @fluentui/react-accordion
 
-This log was last generated on Fri, 17 Sep 2021 07:35:26 GMT and should not be manually modified.
+This log was last generated on Fri, 17 Sep 2021 08:27:07 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0-alpha.78
+
+Fri, 17 Sep 2021 08:27:07 GMT
+
+### Changes
+
+- Bump @fluentui/react-accordion to v9.0.0-alpha.78 (lingfangao@hotmail.com)
 
 ## [9.0.0-alpha.77](https://github.com/microsoft/fluentui/tree/@fluentui/react-accordion_v9.0.0-alpha.77)
 
