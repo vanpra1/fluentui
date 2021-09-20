@@ -38,6 +38,7 @@ const camelOrPascalOrUpperCase = `(${camelOrPascalCase}|${upperCase})`;
 const builtins = '^(any|Number|number|String|string|Boolean|boolean|Undefined|undefined)$';
 
 module.exports = {
+  eslintDummy: 1,
   /** Test-related files */
   testFiles,
 
