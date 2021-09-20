@@ -5,14 +5,9 @@ const path = require('path');
 // import { renderHeader, renderEntry } from './customRenderers';
 
 const allPackageInfo = getAllPackageInfo();
-const fluentConvergedPackagePaths = Object.values(allPackageInfo)
+const sharedPackagePaths = Object.values(allPackageInfo)
   .map(packageInfo => {
-    if (packageInfo.packageJson.version.startsWith('9.')) {
-      return packageInfo.packagePath;
-    }
-
     const hardCoded = ['perf-test', 'vr-tests'];
-
     if (hardCoded.includes(packageInfo.packageJson.name)) {
       return packageInfo.packagePath;
     }
@@ -21,7 +16,18 @@ const fluentConvergedPackagePaths = Object.values(allPackageInfo)
   })
   .filter(Boolean) as string[];
 
+const fluentConvergedPackagePaths = Object.values(allPackageInfo)
+  .map(packageInfo => {
+    if (packageInfo.packageJson.version.startsWith('9.')) {
+      return packageInfo.packagePath;
+    }
+
+    return false;
+  })
+  .filter(Boolean) as string[];
+
 const ignoreFluentConvergedScope = fluentConvergedPackagePaths.map(path => `!${path}`);
+const fluentConvergedScope = [...fluentConvergedPackagePaths, ...sharedPackagePaths];
 // Northstar is never published with beachball
 const northstarScope = '!packages/fluentui/*';
 
@@ -36,7 +42,7 @@ export const config: BeachballConfig = {
   registry:
     'https://uifabric.pkgs.visualstudio.com/4ed167b9-ac3a-405b-b967-443af8db8961/_packaging/ling-test1/npm/registry/',
   // @ts-ignore
-  scope: process.env.RELEASE_VNEXT ? fluentConvergedPackagePaths : defaultScope,
+  scope: process.env.RELEASE_VNEXT ? fluentConvergedScope : defaultScope,
   hooks: {
     prepublish: packagePath => {
       const authToken = process.env.ADO_TOKEN;
