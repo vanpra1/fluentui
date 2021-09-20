@@ -191,6 +191,9 @@ export const optionProperties: Record<string, number>;
 // @public
 export type PropsWithoutRef<P> = 'ref' extends keyof P ? (P extends unknown ? Omit<P, 'ref'> : P) : P;
 
+// @public (undocumented)
+export const reactUtilitiesDummy = "1";
+
 // @public
 export type RefObjectFunction<T> = React_2.RefObject<T> & ((value: T) => void);
 
