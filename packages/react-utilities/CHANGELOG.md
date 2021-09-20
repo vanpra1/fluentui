@@ -1,8 +1,16 @@
 # Change Log - @fluentui/react-utilities
 
-This log was last generated on Mon, 20 Sep 2021 13:33:48 GMT and should not be manually modified.
+This log was last generated on Mon, 20 Sep 2021 16:39:44 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0-beta.3
+
+Mon, 20 Sep 2021 16:39:44 GMT
+
+### Changes
+
+- dummy changes (lingfangao@hotmail.com)
 
 ## [9.0.0-beta.2](https://github.com/microsoft/fluentui/tree/@fluentui/react-utilities_v9.0.0-beta.2)
 
