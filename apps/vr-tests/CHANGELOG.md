@@ -1,8 +1,16 @@
 # Change Log - vr-tests
 
-This log was last generated on Mon, 20 Sep 2021 13:33:48 GMT and should not be manually modified.
+This log was last generated on Mon, 20 Sep 2021 16:39:44 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.0.0
+
+Mon, 20 Sep 2021 16:39:44 GMT
+
+### Patches
+
+- Bump vr-tests to v1.0.0 (lingfangao@hotmail.com)
 
 ## [1.0.0](https://github.com/microsoft/fluentui/tree/vr-tests_v1.0.0)
 
