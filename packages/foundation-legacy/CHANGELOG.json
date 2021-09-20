@@ -2,6 +2,27 @@
   "name": "@fluentui/foundation-legacy",
   "entries": [
     {
+      "date": "Mon, 20 Sep 2021 09:27:00 GMT",
+      "tag": "@fluentui/foundation-legacy_v8.1.11",
+      "version": "8.1.11",
+      "comments": {
+        "none": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/foundation-legacy",
+            "comment": "Use star dev deps",
+            "commit": "c8fcbb23ee35d0297539c8f820c112a6d7da852e"
+          },
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/foundation-legacy",
+            "commit": "c8fcbb23ee35d0297539c8f820c112a6d7da852e",
+            "comment": "Bump @fluentui/foundation-legacy to v8.1.11"
+          }
+        ]
+      }
+    },
+    {
       "date": "Thu, 02 Sep 2021 07:36:46 GMT",
       "tag": "@fluentui/foundation-legacy_v8.1.11",
       "version": "8.1.11",

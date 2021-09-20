@@ -2,6 +2,27 @@
   "name": "@fluentui/react-docsite-components",
   "entries": [
     {
+      "date": "Mon, 20 Sep 2021 09:27:00 GMT",
+      "tag": "@fluentui/react-docsite-components_v8.3.29",
+      "version": "8.3.29",
+      "comments": {
+        "none": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-docsite-components",
+            "comment": "Use star dev deps",
+            "commit": "c8fcbb23ee35d0297539c8f820c112a6d7da852e"
+          },
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-docsite-components",
+            "commit": "c8fcbb23ee35d0297539c8f820c112a6d7da852e",
+            "comment": "Bump @fluentui/react-docsite-components to v8.3.29"
+          }
+        ]
+      }
+    },
+    {
       "date": "Thu, 16 Sep 2021 07:38:39 GMT",
       "tag": "@fluentui/react-docsite-components_v8.3.29",
       "version": "8.3.29",

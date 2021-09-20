@@ -2,6 +2,27 @@
   "name": "@fluentui/react-compose",
   "entries": [
     {
+      "date": "Mon, 20 Sep 2021 09:27:00 GMT",
+      "tag": "@fluentui/react-compose_v1.0.0-beta.32",
+      "version": "1.0.0-beta.32",
+      "comments": {
+        "none": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-compose",
+            "comment": "Use star dev deps",
+            "commit": "c8fcbb23ee35d0297539c8f820c112a6d7da852e"
+          },
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-compose",
+            "commit": "c8fcbb23ee35d0297539c8f820c112a6d7da852e",
+            "comment": "Bump @fluentui/react-compose to v1.0.0-beta.32"
+          }
+        ]
+      }
+    },
+    {
       "date": "Thu, 02 Sep 2021 07:36:46 GMT",
       "tag": "@fluentui/react-compose_v1.0.0-beta.32",
       "version": "1.0.0-beta.32",

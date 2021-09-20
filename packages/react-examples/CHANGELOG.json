@@ -2,6 +2,21 @@
   "name": "@fluentui/react-examples",
   "entries": [
     {
+      "date": "Mon, 20 Sep 2021 09:27:00 GMT",
+      "tag": "@fluentui/react-examples_v8.34.4",
+      "version": "8.34.4",
+      "comments": {
+        "none": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-examples",
+            "commit": "c8fcbb23ee35d0297539c8f820c112a6d7da852e",
+            "comment": "Bump @fluentui/react-examples to v8.34.4"
+          }
+        ]
+      }
+    },
+    {
       "date": "Fri, 17 Sep 2021 07:35:26 GMT",
       "tag": "@fluentui/react-examples_v8.34.4",
       "version": "8.34.4",

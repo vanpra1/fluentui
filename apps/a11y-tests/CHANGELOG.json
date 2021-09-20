@@ -2,6 +2,21 @@
   "name": "a11y-tests",
   "entries": [
     {
+      "date": "Mon, 20 Sep 2021 09:27:00 GMT",
+      "tag": "a11y-tests_v1.0.0",
+      "version": "1.0.0",
+      "comments": {
+        "none": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "a11y-tests",
+            "commit": "c8fcbb23ee35d0297539c8f820c112a6d7da852e",
+            "comment": "Bump a11y-tests to v1.0.0"
+          }
+        ]
+      }
+    },
+    {
       "date": "Thu, 16 Sep 2021 07:38:39 GMT",
       "tag": "a11y-tests_v1.0.0",
       "version": "1.0.0",

@@ -2,6 +2,27 @@
   "name": "@fluentui/azure-themes",
   "entries": [
     {
+      "date": "Mon, 20 Sep 2021 09:27:00 GMT",
+      "tag": "@fluentui/azure-themes_v8.1.70",
+      "version": "8.1.70",
+      "comments": {
+        "none": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/azure-themes",
+            "comment": "Use star dev deps",
+            "commit": "c8fcbb23ee35d0297539c8f820c112a6d7da852e"
+          },
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/azure-themes",
+            "commit": "c8fcbb23ee35d0297539c8f820c112a6d7da852e",
+            "comment": "Bump @fluentui/azure-themes to v8.1.70"
+          }
+        ]
+      }
+    },
+    {
       "date": "Thu, 16 Sep 2021 07:38:39 GMT",
       "tag": "@fluentui/azure-themes_v8.1.70",
       "version": "8.1.70",

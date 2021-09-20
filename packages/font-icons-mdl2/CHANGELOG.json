@@ -2,6 +2,27 @@
   "name": "@fluentui/font-icons-mdl2",
   "entries": [
     {
+      "date": "Mon, 20 Sep 2021 09:27:00 GMT",
+      "tag": "@fluentui/font-icons-mdl2_v8.1.11",
+      "version": "8.1.11",
+      "comments": {
+        "none": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/font-icons-mdl2",
+            "comment": "Use star dev deps",
+            "commit": "c8fcbb23ee35d0297539c8f820c112a6d7da852e"
+          },
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/font-icons-mdl2",
+            "commit": "c8fcbb23ee35d0297539c8f820c112a6d7da852e",
+            "comment": "Bump @fluentui/font-icons-mdl2 to v8.1.11"
+          }
+        ]
+      }
+    },
+    {
       "date": "Thu, 02 Sep 2021 07:36:46 GMT",
       "tag": "@fluentui/font-icons-mdl2_v8.1.11",
       "version": "8.1.11",
