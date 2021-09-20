@@ -1,7 +1,0 @@
-{
-  "type": "prerelease",
-  "comment": "react utilities dummy",
-  "packageName": "@fluentui/react-utilities",
-  "email": "lingfangao@hotmail.com",
-  "dependentChangeType": "patch"
-}

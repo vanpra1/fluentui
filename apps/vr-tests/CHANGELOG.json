@@ -2,6 +2,21 @@
   "name": "vr-tests",
   "entries": [
     {
+      "date": "Mon, 20 Sep 2021 13:33:48 GMT",
+      "tag": "vr-tests_v1.0.0",
+      "version": "1.0.0",
+      "comments": {
+        "patch": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "vr-tests",
+            "commit": "a8313c08416be9d6770db01d330c854a5a2352f0",
+            "comment": "Bump vr-tests to v1.0.0"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 20 Sep 2021 12:52:04 GMT",
       "tag": "vr-tests_v1.0.0",
       "version": "1.0.0",

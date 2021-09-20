@@ -1,8 +1,17 @@
 # Change Log - @fluentui/react-switch
 
-This log was last generated on Fri, 17 Sep 2021 08:49:28 GMT and should not be manually modified.
+This log was last generated on Mon, 20 Sep 2021 13:33:48 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## [9.0.0-beta.2](https://github.com/microsoft/fluentui/tree/@fluentui/react-switch_v9.0.0-beta.2)
+
+Mon, 20 Sep 2021 13:33:48 GMT 
+[Compare changes](https://github.com/microsoft/fluentui/compare/@fluentui/react-switch_v9.0.0-beta.1..@fluentui/react-switch_v9.0.0-beta.2)
+
+### Changes
+
+- Bump @fluentui/react-switch to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
 
 ## 9.0.0-beta.1
 

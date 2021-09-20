@@ -1,8 +1,85 @@
 # Change Log - @fluentui/react-components
 
-This log was last generated on Mon, 20 Sep 2021 12:52:04 GMT and should not be manually modified.
+This log was last generated on Mon, 20 Sep 2021 13:33:41 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## [9.0.0-beta.2](https://github.com/microsoft/fluentui/tree/@fluentui/react-components_v9.0.0-beta.2)
+
+Mon, 20 Sep 2021 13:33:41 GMT 
+[Compare changes](https://github.com/microsoft/fluentui/compare/@fluentui/react-components_v9.0.0-beta.1..@fluentui/react-components_v9.0.0-beta.2)
+
+### Patches
+
+- `vr-tests`
+  - Bump vr-tests to v1.0.0 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `perf-test`
+  - Bump perf-test to v1.0.0 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+
+### Changes
+
+- `@fluentui/react-utilities`
+  - react utilities dummy ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-accordion`
+  - Bump @fluentui/react-accordion to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-aria`
+  - Bump @fluentui/react-aria to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-avatar`
+  - Bump @fluentui/react-avatar to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-badge`
+  - Bump @fluentui/react-badge to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-button`
+  - Bump @fluentui/react-button to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-card`
+  - Bump @fluentui/react-card to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-checkbox`
+  - Bump @fluentui/react-checkbox to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-components`
+  - Bump @fluentui/react-components to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-context-selector`
+  - Bump @fluentui/react-context-selector to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-divider`
+  - Bump @fluentui/react-divider to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-image`
+  - Bump @fluentui/react-image to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-input`
+  - Bump @fluentui/react-input to v9.0.0-beta.0 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-label`
+  - Bump @fluentui/react-label to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-link`
+  - Bump @fluentui/react-link to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-make-styles`
+  - Bump @fluentui/react-make-styles to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-menu`
+  - Bump @fluentui/react-menu to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-popover`
+  - Bump @fluentui/react-popover to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-portal`
+  - Bump @fluentui/react-portal to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-positioning`
+  - Bump @fluentui/react-positioning to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-provider`
+  - Bump @fluentui/react-provider to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-slider`
+  - Bump @fluentui/react-slider to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-switch`
+  - Bump @fluentui/react-switch to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-tabster`
+  - Bump @fluentui/react-tabster to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-text`
+  - Bump @fluentui/react-text to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-tooltip`
+  - Bump @fluentui/react-tooltip to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/babel-make-styles`
+  - Bump @fluentui/babel-make-styles to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/jest-serializer-make-styles`
+  - Bump @fluentui/jest-serializer-make-styles to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-conformance-make-styles`
+  - Bump @fluentui/react-conformance-make-styles to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/react-storybook`
+  - Bump @fluentui/react-storybook to v9.0.0-beta.0 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
+- `@fluentui/make-styles-webpack-loader`
+  - Bump @fluentui/make-styles-webpack-loader to v9.0.0-beta.2 ([commit](https://github.com/microsoft/fluentui/commit/a8313c08416be9d6770db01d330c854a5a2352f0) by lingfangao@hotmail.com)
 
 ## [9.0.0-beta.1](https://github.com/microsoft/fluentui/tree/@fluentui/react-components_v9.0.0-beta.1)
 
