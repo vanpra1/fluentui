@@ -1,5 +1,4 @@
 import { BeachballConfig } from 'beachball';
-import { renderHeader, renderEntry } from './customRenderers';
 import { getScopes } from './getScopes';
 import { getVNextChangelogGroups } from './getVNextChangelogGroups';
 import * as path from 'path';
@@ -34,10 +33,6 @@ export const config: BeachballConfig = {
     },
   },
   changelog: {
-    customRenderers: {
-      renderHeader,
-      renderEntry,
-    },
     groups: [getVNextChangelogGroups()],
   },
 };
