@@ -2,6 +2,21 @@
   "name": "@fluentui/test-utilities",
   "entries": [
     {
+      "date": "Mon, 20 Sep 2021 12:52:04 GMT",
+      "tag": "@fluentui/test-utilities_v8.0.9",
+      "version": "8.0.9",
+      "comments": {
+        "patch": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/test-utilities",
+            "commit": "6aa2ac7896128bfb8300b9875be1fce4624624d8",
+            "comment": "Bump @fluentui/test-utilities to v8.0.9"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 20 Sep 2021 09:27:00 GMT",
       "tag": "@fluentui/test-utilities_v8.0.8",
       "version": "8.0.8",

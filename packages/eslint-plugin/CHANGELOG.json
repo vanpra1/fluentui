@@ -2,6 +2,21 @@
   "name": "@fluentui/eslint-plugin",
   "entries": [
     {
+      "date": "Mon, 20 Sep 2021 12:52:04 GMT",
+      "tag": "@fluentui/eslint-plugin_v1.5.0",
+      "version": "1.5.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/eslint-plugin",
+            "comment": "dummy change eslint",
+            "commit": "6aa2ac7896128bfb8300b9875be1fce4624624d8"
+          }
+        ]
+      }
+    },
+    {
       "date": "Tue, 24 Aug 2021 07:34:48 GMT",
       "tag": "@fluentui/eslint-plugin_v1.4.1",
       "version": "1.4.1",

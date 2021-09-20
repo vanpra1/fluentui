@@ -2,6 +2,21 @@
   "name": "@fluentui/react-tabs",
   "entries": [
     {
+      "date": "Mon, 20 Sep 2021 12:52:04 GMT",
+      "tag": "@fluentui/react-tabs_v1.0.0-beta.161",
+      "version": "1.0.0-beta.161",
+      "comments": {
+        "prerelease": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-tabs",
+            "commit": "6aa2ac7896128bfb8300b9875be1fce4624624d8",
+            "comment": "Bump @fluentui/react-tabs to v1.0.0-beta.161"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 20 Sep 2021 10:51:15 GMT",
       "tag": "@fluentui/react-tabs_v1.0.0-beta.160",
       "version": "1.0.0-beta.160",

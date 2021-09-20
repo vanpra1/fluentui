@@ -2,6 +2,21 @@
   "name": "@fluentui/codemods",
   "entries": [
     {
+      "date": "Mon, 20 Sep 2021 12:52:04 GMT",
+      "tag": "@fluentui/codemods_v8.2.2",
+      "version": "8.2.2",
+      "comments": {
+        "patch": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/codemods",
+            "commit": "6aa2ac7896128bfb8300b9875be1fce4624624d8",
+            "comment": "Bump @fluentui/codemods to v8.2.2"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 20 Sep 2021 09:27:00 GMT",
       "tag": "@fluentui/codemods_v8.2.1",
       "version": "8.2.1",

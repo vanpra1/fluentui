@@ -1,8 +1,17 @@
 # Change Log - @fluentui/test-utilities
 
-This log was last generated on Tue, 03 Aug 2021 07:39:30 GMT and should not be manually modified.
+This log was last generated on Mon, 20 Sep 2021 12:52:04 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## [8.0.9](https://github.com/microsoft/fluentui/tree/@fluentui/test-utilities_v8.0.9)
+
+Mon, 20 Sep 2021 12:52:04 GMT 
+[Compare changes](https://github.com/microsoft/fluentui/compare/@fluentui/test-utilities_v8.0.8..@fluentui/test-utilities_v8.0.9)
+
+### Patches
+
+- Bump @fluentui/test-utilities to v8.0.9 ([commit](https://github.com/microsoft/fluentui/commit/6aa2ac7896128bfb8300b9875be1fce4624624d8) by lingfangao@hotmail.com)
 
 ## [8.0.8](https://github.com/microsoft/fluentui/tree/@fluentui/test-utilities_v8.0.8)
 

@@ -1,8 +1,17 @@
 # Change Log - @fluentui/dom-utilities
 
-This log was last generated on Tue, 03 Aug 2021 07:39:30 GMT and should not be manually modified.
+This log was last generated on Mon, 20 Sep 2021 12:52:04 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## [2.1.5](https://github.com/microsoft/fluentui/tree/@fluentui/dom-utilities_v2.1.5)
+
+Mon, 20 Sep 2021 12:52:04 GMT 
+[Compare changes](https://github.com/microsoft/fluentui/compare/@fluentui/dom-utilities_v2.1.4..@fluentui/dom-utilities_v2.1.5)
+
+### Patches
+
+- Bump @fluentui/dom-utilities to v2.1.5 ([commit](https://github.com/microsoft/fluentui/commit/6aa2ac7896128bfb8300b9875be1fce4624624d8) by lingfangao@hotmail.com)
 
 ## [2.1.4](https://github.com/microsoft/fluentui/tree/@fluentui/dom-utilities_v2.1.4)
 

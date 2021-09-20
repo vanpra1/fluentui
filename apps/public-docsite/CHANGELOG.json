@@ -2,6 +2,21 @@
   "name": "@fluentui/public-docsite",
   "entries": [
     {
+      "date": "Mon, 20 Sep 2021 12:52:04 GMT",
+      "tag": "@fluentui/public-docsite_v8.2.41",
+      "version": "8.2.41",
+      "comments": {
+        "patch": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/public-docsite",
+            "commit": "6aa2ac7896128bfb8300b9875be1fce4624624d8",
+            "comment": "Bump @fluentui/public-docsite to v8.2.41"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 20 Sep 2021 10:51:15 GMT",
       "tag": "@fluentui/public-docsite_v8.2.41",
       "version": "8.2.41",

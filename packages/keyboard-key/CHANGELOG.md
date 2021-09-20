@@ -1,8 +1,17 @@
 # Change Log - @fluentui/keyboard-key
 
-This log was last generated on Tue, 03 Aug 2021 07:39:30 GMT and should not be manually modified.
+This log was last generated on Mon, 20 Sep 2021 12:52:04 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## [0.3.5](https://github.com/microsoft/fluentui/tree/@fluentui/keyboard-key_v0.3.5)
+
+Mon, 20 Sep 2021 12:52:04 GMT 
+[Compare changes](https://github.com/microsoft/fluentui/compare/@fluentui/keyboard-key_v0.3.4..@fluentui/keyboard-key_v0.3.5)
+
+### Patches
+
+- Bump @fluentui/keyboard-key to v0.3.5 ([commit](https://github.com/microsoft/fluentui/commit/6aa2ac7896128bfb8300b9875be1fce4624624d8) by lingfangao@hotmail.com)
 
 ## [0.3.4](https://github.com/microsoft/fluentui/tree/@fluentui/keyboard-key_v0.3.4)
 

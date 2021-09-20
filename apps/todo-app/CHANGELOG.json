@@ -2,6 +2,21 @@
   "name": "todo-app",
   "entries": [
     {
+      "date": "Mon, 20 Sep 2021 12:52:04 GMT",
+      "tag": "todo-app_v1.0.0",
+      "version": "1.0.0",
+      "comments": {
+        "patch": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "todo-app",
+            "commit": "6aa2ac7896128bfb8300b9875be1fce4624624d8",
+            "comment": "Bump todo-app to v1.0.0"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 20 Sep 2021 10:51:15 GMT",
       "tag": "todo-app_v1.0.0",
       "version": "1.0.0",

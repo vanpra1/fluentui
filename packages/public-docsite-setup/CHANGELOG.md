@@ -1,8 +1,17 @@
 # Change Log - @fluentui/public-docsite-setup
 
-This log was last generated on Tue, 03 Aug 2021 07:39:30 GMT and should not be manually modified.
+This log was last generated on Mon, 20 Sep 2021 12:52:04 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## [0.3.8](https://github.com/microsoft/fluentui/tree/@fluentui/public-docsite-setup_v0.3.8)
+
+Mon, 20 Sep 2021 12:52:04 GMT 
+[Compare changes](https://github.com/microsoft/fluentui/compare/@fluentui/public-docsite-setup_v0.3.7..@fluentui/public-docsite-setup_v0.3.8)
+
+### Patches
+
+- Bump @fluentui/public-docsite-setup to v0.3.8 ([commit](https://github.com/microsoft/fluentui/commit/6aa2ac7896128bfb8300b9875be1fce4624624d8) by lingfangao@hotmail.com)
 
 ## [0.3.7](https://github.com/microsoft/fluentui/tree/@fluentui/public-docsite-setup_v0.3.7)
 

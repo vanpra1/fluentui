@@ -1,8 +1,17 @@
 # Change Log - @fluentui/eslint-plugin
 
-This log was last generated on Tue, 24 Aug 2021 07:34:48 GMT and should not be manually modified.
+This log was last generated on Mon, 20 Sep 2021 12:52:04 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## [1.5.0](https://github.com/microsoft/fluentui/tree/@fluentui/eslint-plugin_v1.5.0)
+
+Mon, 20 Sep 2021 12:52:04 GMT 
+[Compare changes](https://github.com/microsoft/fluentui/compare/@fluentui/eslint-plugin_v1.4.1..@fluentui/eslint-plugin_v1.5.0)
+
+### Minor changes
+
+- dummy change eslint ([commit](https://github.com/microsoft/fluentui/commit/6aa2ac7896128bfb8300b9875be1fce4624624d8) by lingfangao@hotmail.com)
 
 ## [1.4.1](https://github.com/microsoft/fluentui/tree/@fluentui/eslint-plugin_v1.4.1)
 

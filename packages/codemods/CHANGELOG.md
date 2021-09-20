@@ -1,8 +1,17 @@
 # Change Log - @fluentui/codemods
 
-This log was last generated on Tue, 03 Aug 2021 07:39:30 GMT and should not be manually modified.
+This log was last generated on Mon, 20 Sep 2021 12:52:04 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## [8.2.2](https://github.com/microsoft/fluentui/tree/@fluentui/codemods_v8.2.2)
+
+Mon, 20 Sep 2021 12:52:04 GMT 
+[Compare changes](https://github.com/microsoft/fluentui/compare/@fluentui/codemods_v8.2.1..@fluentui/codemods_v8.2.2)
+
+### Patches
+
+- Bump @fluentui/codemods to v8.2.2 ([commit](https://github.com/microsoft/fluentui/commit/6aa2ac7896128bfb8300b9875be1fce4624624d8) by lingfangao@hotmail.com)
 
 ## [8.2.1](https://github.com/microsoft/fluentui/tree/@fluentui/codemods_v8.2.1)
 

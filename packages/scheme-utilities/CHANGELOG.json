@@ -2,6 +2,21 @@
   "name": "@fluentui/scheme-utilities",
   "entries": [
     {
+      "date": "Mon, 20 Sep 2021 12:52:04 GMT",
+      "tag": "@fluentui/scheme-utilities_v8.2.3",
+      "version": "8.2.3",
+      "comments": {
+        "patch": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/scheme-utilities",
+            "commit": "6aa2ac7896128bfb8300b9875be1fce4624624d8",
+            "comment": "Bump @fluentui/scheme-utilities to v8.2.3"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 20 Sep 2021 09:27:00 GMT",
       "tag": "@fluentui/scheme-utilities_v8.2.2",
       "version": "8.2.2",

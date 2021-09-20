@@ -1,8 +1,17 @@
 # Change Log - @fluentui/webpack-utilities
 
-This log was last generated on Wed, 11 Aug 2021 07:34:54 GMT and should not be manually modified.
+This log was last generated on Mon, 20 Sep 2021 12:52:04 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## [8.1.6](https://github.com/microsoft/fluentui/tree/@fluentui/webpack-utilities_v8.1.6)
+
+Mon, 20 Sep 2021 12:52:04 GMT 
+[Compare changes](https://github.com/microsoft/fluentui/compare/@fluentui/webpack-utilities_v8.1.5..@fluentui/webpack-utilities_v8.1.6)
+
+### Patches
+
+- Bump @fluentui/webpack-utilities to v8.1.6 ([commit](https://github.com/microsoft/fluentui/commit/6aa2ac7896128bfb8300b9875be1fce4624624d8) by lingfangao@hotmail.com)
 
 ## [8.1.5](https://github.com/microsoft/fluentui/tree/@fluentui/webpack-utilities_v8.1.5)
 

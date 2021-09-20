@@ -2,6 +2,21 @@
   "name": "@fluentui/example-data",
   "entries": [
     {
+      "date": "Mon, 20 Sep 2021 12:52:04 GMT",
+      "tag": "@fluentui/example-data_v8.2.7",
+      "version": "8.2.7",
+      "comments": {
+        "patch": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/example-data",
+            "commit": "6aa2ac7896128bfb8300b9875be1fce4624624d8",
+            "comment": "Bump @fluentui/example-data to v8.2.7"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 20 Sep 2021 09:27:00 GMT",
       "tag": "@fluentui/example-data_v8.2.6",
       "version": "8.2.6",

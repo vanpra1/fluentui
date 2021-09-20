@@ -1,7 +1,0 @@
-{
-  "type": "minor",
-  "comment": "dummy change eslint",
-  "packageName": "@fluentui/eslint-plugin",
-  "email": "lingfangao@hotmail.com",
-  "dependentChangeType": "patch"
-}

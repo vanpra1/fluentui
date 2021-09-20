@@ -1,8 +1,17 @@
 # Change Log - @fluentui/example-data
 
-This log was last generated on Thu, 05 Aug 2021 07:34:24 GMT and should not be manually modified.
+This log was last generated on Mon, 20 Sep 2021 12:52:04 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## [8.2.7](https://github.com/microsoft/fluentui/tree/@fluentui/example-data_v8.2.7)
+
+Mon, 20 Sep 2021 12:52:04 GMT 
+[Compare changes](https://github.com/microsoft/fluentui/compare/@fluentui/example-data_v8.2.6..@fluentui/example-data_v8.2.7)
+
+### Patches
+
+- Bump @fluentui/example-data to v8.2.7 ([commit](https://github.com/microsoft/fluentui/commit/6aa2ac7896128bfb8300b9875be1fce4624624d8) by lingfangao@hotmail.com)
 
 ## [8.2.6](https://github.com/microsoft/fluentui/tree/@fluentui/example-data_v8.2.6)
 
