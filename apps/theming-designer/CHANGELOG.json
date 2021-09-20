@@ -2,6 +2,21 @@
   "name": "theming-designer",
   "entries": [
     {
+      "date": "Mon, 20 Sep 2021 10:51:15 GMT",
+      "tag": "theming-designer_v1.0.0",
+      "version": "1.0.0",
+      "comments": {
+        "patch": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "theming-designer",
+            "commit": "6fd2dc65870636be9d315a119c5d8e5496cc165c",
+            "comment": "Bump theming-designer to v1.0.0"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 20 Sep 2021 10:03:23 GMT",
       "tag": "theming-designer_v1.0.0",
       "version": "1.0.0",

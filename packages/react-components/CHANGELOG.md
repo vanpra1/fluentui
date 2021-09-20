@@ -1,8 +1,20 @@
 # Change Log - @fluentui/react-components
 
-This log was last generated on Fri, 17 Sep 2021 08:49:28 GMT and should not be manually modified.
+This log was last generated on Mon, 20 Sep 2021 10:51:14 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## [9.0.0-beta.1](https://github.com/microsoft/fluentui/tree/@fluentui/react-components_v9.0.0-beta.1)
+
+Mon, 20 Sep 2021 10:51:14 GMT 
+[Compare changes](https://github.com/microsoft/fluentui/compare/@fluentui/react-components_v9.0.0-beta.1..@fluentui/react-components_v9.0.0-beta.1)
+
+### Patches
+
+- `perf-test`
+  - Bump perf-test to v1.0.0 ([commit](https://github.com/microsoft/fluentui/commit/6fd2dc65870636be9d315a119c5d8e5496cc165c) by lingfangao@hotmail.com)
+- `vr-tests`
+  - Bump vr-tests to v1.0.0 ([commit](https://github.com/microsoft/fluentui/commit/6fd2dc65870636be9d315a119c5d8e5496cc165c) by lingfangao@hotmail.com)
 
 ## 9.0.0-beta.1
 

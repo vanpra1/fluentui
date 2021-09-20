@@ -2,6 +2,27 @@
   "name": "@fluentui/react-components",
   "entries": [
     {
+      "date": "Mon, 20 Sep 2021 10:51:14 GMT",
+      "tag": "@fluentui/react-components_v9.0.0-beta.1",
+      "version": "9.0.0-beta.1",
+      "comments": {
+        "patch": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "perf-test",
+            "commit": "6fd2dc65870636be9d315a119c5d8e5496cc165c",
+            "comment": "Bump perf-test to v1.0.0"
+          },
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "vr-tests",
+            "commit": "6fd2dc65870636be9d315a119c5d8e5496cc165c",
+            "comment": "Bump vr-tests to v1.0.0"
+          }
+        ]
+      }
+    },
+    {
       "date": "Fri, 17 Sep 2021 08:49:28 GMT",
       "tag": "@fluentui/react-components_v9.0.0-beta.1",
       "version": "9.0.0-beta.1",

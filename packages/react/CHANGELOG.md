@@ -1,8 +1,17 @@
 # Change Log - @fluentui/react
 
-This log was last generated on Mon, 20 Sep 2021 10:03:23 GMT and should not be manually modified.
+This log was last generated on Mon, 20 Sep 2021 10:51:15 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## [8.34.5](https://github.com/microsoft/fluentui/tree/@fluentui/react_v8.34.5)
+
+Mon, 20 Sep 2021 10:51:15 GMT 
+[Compare changes](https://github.com/microsoft/fluentui/compare/@fluentui/react_v8.34.4..@fluentui/react_v8.34.5)
+
+### Patches
+
+- Bump @fluentui/react to v8.34.5 ([commit](https://github.com/microsoft/fluentui/commit/6fd2dc65870636be9d315a119c5d8e5496cc165c) by lingfangao@hotmail.com)
 
 ## 8.34.4
 

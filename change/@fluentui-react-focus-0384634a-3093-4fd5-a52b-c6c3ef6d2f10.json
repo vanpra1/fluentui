@@ -1,7 +1,0 @@
-{
-  "type": "minor",
-  "comment": "react focus dummy change",
-  "packageName": "@fluentui/react-focus",
-  "email": "lingfangao@hotmail.com",
-  "dependentChangeType": "patch"
-}
