@@ -1,38 +1,9 @@
 import { BeachballConfig } from 'beachball';
-import { getAllPackageInfo } from '../monorepo/index';
+import { renderHeader, renderEntry } from './customRenderers';
+import { getScopes } from './getScopes';
+import { getVNextChangelogGroups } from './getVNextChangelogGroups';
+import * as path from 'path';
 import { writeFile } from 'fs-extra';
-const path = require('path');
-// import { renderHeader, renderEntry } from './customRenderers';
-
-const allPackageInfo = getAllPackageInfo();
-const sharedPackagePaths = Object.values(allPackageInfo)
-  .map(packageInfo => {
-    const hardCoded = ['perf-test', 'vr-tests'];
-    if (hardCoded.includes(packageInfo.packageJson.name)) {
-      return packageInfo.packagePath;
-    }
-
-    return false;
-  })
-  .filter(Boolean) as string[];
-
-const fluentConvergedPackagePaths = Object.values(allPackageInfo)
-  .map(packageInfo => {
-    if (packageInfo.packageJson.version.startsWith('9.')) {
-      return packageInfo.packagePath;
-    }
-
-    return false;
-  })
-  .filter(Boolean) as string[];
-
-const ignoreFluentConvergedScope = fluentConvergedPackagePaths.map(path => `!${path}`);
-const fluentConvergedScope = [...fluentConvergedPackagePaths, ...sharedPackagePaths];
-// Northstar is never published with beachball
-const northstarScope = '!packages/fluentui/*';
-
-// Default scope used to publish Fluent UI v8
-const defaultScope = [northstarScope, ...ignoreFluentConvergedScope];
 
 export const config: BeachballConfig = {
   disallowedChangeTypes: ['major', 'prerelease'],
@@ -41,8 +12,9 @@ export const config: BeachballConfig = {
   gitTags: false,
   registry:
     'https://uifabric.pkgs.visualstudio.com/4ed167b9-ac3a-405b-b967-443af8db8961/_packaging/ling-test1/npm/registry/',
+  // https://github.com/microsoft/beachball/pull/599
   // @ts-ignore
-  scope: process.env.RELEASE_VNEXT ? fluentConvergedScope : defaultScope,
+  scope: getScopes(),
   hooks: {
     prepublish: packagePath => {
       const authToken = process.env.ADO_TOKEN;
@@ -62,16 +34,10 @@ export const config: BeachballConfig = {
     },
   },
   changelog: {
-    // customRenderers: {
-    //   renderHeader,
-    //   renderEntry,
-    // },
-    groups: [
-      {
-        masterPackageName: '@fluentui/react-components',
-        changelogPath: 'packages/react-components',
-        include: fluentConvergedPackagePaths,
-      },
-    ],
+    customRenderers: {
+      renderHeader,
+      renderEntry,
+    },
+    groups: [getVNextChangelogGroups()],
   },
 };
