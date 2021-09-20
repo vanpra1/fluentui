@@ -1,8 +1,16 @@
 # Change Log - @fluentui/react-charting
 
-This log was last generated on Mon, 20 Sep 2021 09:52:34 GMT and should not be manually modified.
+This log was last generated on Mon, 20 Sep 2021 10:03:23 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 5.3.43
+
+Mon, 20 Sep 2021 10:03:23 GMT
+
+### Patches
+
+- Bump @fluentui/react-charting to v5.3.43 (lingfangao@hotmail.com)
 
 ## 5.3.42
 

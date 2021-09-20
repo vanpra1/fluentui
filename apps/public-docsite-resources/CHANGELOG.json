@@ -2,6 +2,21 @@
   "name": "@fluentui/public-docsite-resources",
   "entries": [
     {
+      "date": "Mon, 20 Sep 2021 10:03:23 GMT",
+      "tag": "@fluentui/public-docsite-resources_v8.1.41",
+      "version": "8.1.41",
+      "comments": {
+        "patch": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/public-docsite-resources",
+            "commit": "b00475dcbf1a02be5e205cb20f46f4e432a31a60",
+            "comment": "Bump @fluentui/public-docsite-resources to v8.1.41"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 20 Sep 2021 09:52:34 GMT",
       "tag": "@fluentui/public-docsite-resources_v8.1.41",
       "version": "8.1.41",

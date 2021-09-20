@@ -1,8 +1,16 @@
 # Change Log - @fluentui/react-focus
 
-This log was last generated on Mon, 20 Sep 2021 09:52:34 GMT and should not be manually modified.
+This log was last generated on Mon, 20 Sep 2021 10:03:23 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 8.4.0
+
+Mon, 20 Sep 2021 10:03:23 GMT
+
+### Minor changes
+
+- dummy change for react-focus (lingfangao@hotmail.com)
 
 ## 8.3.0
 

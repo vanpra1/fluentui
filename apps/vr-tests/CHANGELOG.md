@@ -1,8 +1,16 @@
 # Change Log - vr-tests
 
-This log was last generated on Fri, 17 Sep 2021 08:49:28 GMT and should not be manually modified.
+This log was last generated on Mon, 20 Sep 2021 10:03:23 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.0.0
+
+Mon, 20 Sep 2021 10:03:23 GMT
+
+### Patches
+
+- Bump vr-tests to v1.0.0 (lingfangao@hotmail.com)
 
 ## 1.0.0
 

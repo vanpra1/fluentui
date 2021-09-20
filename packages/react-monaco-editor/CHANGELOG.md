@@ -1,8 +1,16 @@
 # Change Log - @fluentui/react-monaco-editor
 
-This log was last generated on Mon, 20 Sep 2021 09:52:34 GMT and should not be manually modified.
+This log was last generated on Mon, 20 Sep 2021 10:03:23 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.2.13
+
+Mon, 20 Sep 2021 10:03:23 GMT
+
+### Patches
+
+- Bump @fluentui/react-monaco-editor to v1.2.13 (lingfangao@hotmail.com)
 
 ## 1.2.12
 

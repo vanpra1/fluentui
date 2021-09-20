@@ -2,6 +2,21 @@
   "name": "@fluentui/react-focus",
   "entries": [
     {
+      "date": "Mon, 20 Sep 2021 10:03:23 GMT",
+      "tag": "@fluentui/react-focus_v8.4.0",
+      "version": "8.4.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-focus",
+            "comment": "dummy change for react-focus",
+            "commit": "b00475dcbf1a02be5e205cb20f46f4e432a31a60"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 20 Sep 2021 09:52:34 GMT",
       "tag": "@fluentui/react-focus_v8.3.0",
       "version": "8.3.0",

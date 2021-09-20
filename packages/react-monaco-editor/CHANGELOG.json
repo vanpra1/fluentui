@@ -2,6 +2,21 @@
   "name": "@fluentui/react-monaco-editor",
   "entries": [
     {
+      "date": "Mon, 20 Sep 2021 10:03:23 GMT",
+      "tag": "@fluentui/react-monaco-editor_v1.2.13",
+      "version": "1.2.13",
+      "comments": {
+        "patch": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-monaco-editor",
+            "commit": "b00475dcbf1a02be5e205cb20f46f4e432a31a60",
+            "comment": "Bump @fluentui/react-monaco-editor to v1.2.13"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 20 Sep 2021 09:52:34 GMT",
       "tag": "@fluentui/react-monaco-editor_v1.2.12",
       "version": "1.2.12",

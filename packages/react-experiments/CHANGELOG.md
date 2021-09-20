@@ -1,8 +1,16 @@
 # Change Log - @fluentui/react-experiments
 
-This log was last generated on Mon, 20 Sep 2021 09:52:34 GMT and should not be manually modified.
+This log was last generated on Mon, 20 Sep 2021 10:03:23 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 8.3.13
+
+Mon, 20 Sep 2021 10:03:23 GMT
+
+### Patches
+
+- Bump @fluentui/react-experiments to v8.3.13 (lingfangao@hotmail.com)
 
 ## 8.3.12
 

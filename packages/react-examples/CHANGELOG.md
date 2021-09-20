@@ -1,8 +1,16 @@
 # Change Log - @fluentui/react-examples
 
-This log was last generated on Mon, 20 Sep 2021 09:52:34 GMT and should not be manually modified.
+This log was last generated on Mon, 20 Sep 2021 10:03:23 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 8.34.4
+
+Mon, 20 Sep 2021 10:03:23 GMT
+
+### Patches
+
+- Bump @fluentui/react-examples to v8.34.4 (lingfangao@hotmail.com)
 
 ## 8.34.4
 
