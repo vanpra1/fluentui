@@ -1,8 +1,16 @@
 # Change Log - a11y-tests
 
-This log was last generated on Thu, 16 Sep 2021 07:38:39 GMT and should not be manually modified.
+This log was last generated on Mon, 20 Sep 2021 09:52:34 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.0.0
+
+Mon, 20 Sep 2021 09:52:34 GMT
+
+### Patches
+
+- Bump a11y-tests to v1.0.0 (lingfangao@hotmail.com)
 
 ## [1.0.0](https://github.com/microsoft/fluentui/tree/a11y-tests_v1.0.0)
 

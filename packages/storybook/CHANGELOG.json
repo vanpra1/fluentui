@@ -2,6 +2,21 @@
   "name": "@fluentui/storybook",
   "entries": [
     {
+      "date": "Mon, 20 Sep 2021 09:52:34 GMT",
+      "tag": "@fluentui/storybook_v1.0.0",
+      "version": "1.0.0",
+      "comments": {
+        "patch": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/storybook",
+            "commit": "37b10e688ec6a925aff847532c2325d48744f021",
+            "comment": "Bump @fluentui/storybook to v1.0.0"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 20 Sep 2021 09:27:00 GMT",
       "tag": "@fluentui/storybook_v1.0.0",
       "version": "1.0.0",
