@@ -61,6 +61,7 @@ import { PortalInner } from '../Portal/PortalInner';
 import { Reaction, ReactionProps } from '../Reaction/Reaction';
 import { ReactionGroupProps } from '../Reaction/ReactionGroup';
 import { Text, TextProps } from '../Text/Text';
+import { ChatBubbleTheme, useChatBubbleThemeContext } from './chatBubbleThemeContext';
 import { ChatDensity, useChatDensityContext } from './chatDensityContext';
 import { ChatItemContext } from './chatItemContext';
 import { ChatMessageDetails, ChatMessageDetailsProps } from './ChatMessageDetails';
@@ -72,6 +73,7 @@ export interface ChatMessageSlotClassNames {
   author: string;
   badge: string;
   bar: string;
+  comfyBody: string;
   compactBody: string;
   content: string;
   reactionGroup: string;
@@ -106,6 +108,12 @@ export interface ChatMessageProps
 
   /** A message can format the badge to appear at the start or the end of the message. */
   badgePosition?: 'start' | 'end';
+
+  /** A message can have a different set of background colors. */
+  bubbleTheme?: ChatBubbleTheme;
+
+  /** Testing this */
+  comfyBody?: ShorthandValue<BoxProps>;
 
   /** A message can have a custom body. Only rendered in compact density. */
   compactBody?: ShorthandValue<BoxProps>;
@@ -176,7 +184,10 @@ export interface ChatMessageProps
   unstable_overflow?: boolean;
 }
 
-export type ChatMessageStylesProps = Pick<ChatMessageProps, 'attached' | 'badgePosition' | 'density' | 'mine'> & {
+export type ChatMessageStylesProps = Pick<
+  ChatMessageProps,
+  'attached' | 'badgePosition' | 'density' | 'mine' | 'bubbleTheme'
+> & {
   hasBadge: boolean;
   hasHeaderReactionGroup: boolean;
 
@@ -192,6 +203,7 @@ export const chatMessageSlotClassNames: ChatMessageSlotClassNames = {
   author: `${chatMessageClassName}__author`,
   badge: `${chatMessageClassName}__badge`,
   bar: `${chatMessageClassName}__bar`,
+  comfyBody: `${chatMessageClassName}__comfy-body`,
   compactBody: `${chatMessageClassName}__compact-body`,
   content: `${chatMessageClassName}__content`,
   reactionGroup: `${chatMessageClassName}__reactions`,
@@ -223,6 +235,7 @@ export const ChatMessage: ComponentWithAs<'div', ChatMessageProps> &
   setStart();
 
   const parentAttached = useContextSelector(ChatItemContext, v => v.attached);
+  const chatBubbleTheme = useChatBubbleThemeContext();
   const chatDensity = useChatDensityContext();
   const {
     accessibility,
@@ -230,8 +243,10 @@ export const ChatMessage: ComponentWithAs<'div', ChatMessageProps> &
     author,
     badge,
     badgePosition,
+    bubbleTheme = chatBubbleTheme,
     children,
     className,
+    comfyBody,
     compactBody,
     content,
     density = chatDensity,
@@ -328,6 +343,7 @@ export const ChatMessage: ComponentWithAs<'div', ChatMessageProps> &
     mapPropsToStyles: () => ({
       attached,
       badgePosition,
+      bubbleTheme,
       density,
       focused,
       hasActionMenu,
@@ -493,7 +509,7 @@ export const ChatMessage: ComponentWithAs<'div', ChatMessageProps> &
   });
 
   const detailsElement = createShorthand(ChatMessageDetails, details, {
-    defaultProps: () => ({ attached, density, hasHeaderReactionGroup, mine }),
+    defaultProps: () => ({ attached, bubbleTheme, density, hasHeaderReactionGroup, mine }),
   });
 
   const readStatusElement = createShorthand(ChatMessageReadStatus, readStatus, {
@@ -551,16 +567,31 @@ export const ChatMessage: ComponentWithAs<'div', ChatMessageProps> &
       }),
     });
 
+    const bodyElement = Box.create(comfyBody || {}, {
+      defaultProps: () =>
+        getA11Props('comfyBody', {
+          className: chatMessageSlotClassNames.comfyBody,
+          styles: resolvedStyles.comfyBody,
+        }),
+      overrideProps: () => ({
+        content: (
+          <>
+            {actionMenuElement}
+            <div className={chatMessageSlotClassNames.bar} />
+            {badgePosition === 'start' && badgeElement}
+            {messageContent}
+            {reactionGroupPosition === 'end' && reactionGroupElement}
+            {badgePosition === 'end' && badgeElement}
+            {readStatusElement}
+          </>
+        ),
+      }),
+    });
+
     elements = (
       <>
-        {actionMenuElement}
-        <div className={chatMessageSlotClassNames.bar} />
-        {badgePosition === 'start' && badgeElement}
         {headerElement}
-        {messageContent}
-        {reactionGroupPosition === 'end' && reactionGroupElement}
-        {badgePosition === 'end' && badgeElement}
-        {readStatusElement}
+        {bodyElement}
       </>
     );
   }
@@ -606,6 +637,8 @@ ChatMessage.propTypes = {
   author: customPropTypes.itemShorthand,
   badge: customPropTypes.itemShorthand,
   badgePosition: PropTypes.oneOf(['start', 'end']),
+  bubbleTheme: PropTypes.oneOf<ChatBubbleTheme>(['classic', 'bold']),
+  comfyBody: customPropTypes.itemShorthand,
   compactBody: customPropTypes.itemShorthand,
   density: PropTypes.oneOf<ChatDensity>(['comfy', 'compact']),
   details: customPropTypes.itemShorthand,
